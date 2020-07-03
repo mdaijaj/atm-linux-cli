@@ -1,0 +1,19 @@
+{
+  "name": "atm-linux-cli",
+  "version": "1.0.0",
+  "description": "atm backend process code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdaijaj/atm-linux-cli.git"
+  },
+  "author": "aijaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdaijaj/atm-linux-cli/issues"
+  },
+  "homepage": "https://github.com/mdaijaj/atm-linux-cli#readme"
+}
